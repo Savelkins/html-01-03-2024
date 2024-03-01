@@ -1,0 +1,44 @@
+body,
+p {
+  font-family: "Roboto Condensed";
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 1.57;
+  color: #333;
+}
+.textblue,
+a {
+  color: #0691d7;
+}
+.textyellow {
+  color: #ffa400;
+}
+.center {
+  text-align: center;
+}
+.recept {
+  width: 60%;
+  margin: auto;
+}
+.left {
+  text-align: left;
+}
+.icons {
+  font-size: 36px;
+}
+.main-title {
+  height: 512px;
+
+  background-color: #0691d7;
+  background-image: url(./assets/image/Banana\ Pudding\ h.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: #fff;
+  font-size: 48px;
+  letter-spacing: 5px;
+}
+.italic {
+  font-style: italic;
+}
